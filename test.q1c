@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="Константы">
+		<text>ВЫБРАТЬ
+	Константы.БазоваяВерсия
+ИЗ
+	Константы КАК Константы
+</text>
+	</query>
+</querylist>
